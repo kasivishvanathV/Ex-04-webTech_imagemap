@@ -43,7 +43,8 @@ imagemap.html
         </div>
         
 </body>
-
+```
+```
 krishna_nagar.html
 
 
@@ -62,7 +63,8 @@ krishna_nagar.html
 </body>
 </html>
 
-
+```
+```
 house1.html
 
 
@@ -79,6 +81,8 @@ house1.html
 
 </body>
 </html>
+```
+```
 
 eagle1.html
 
@@ -97,7 +101,8 @@ eagle1.html
 </body>
 </html>
 
-
+```
+```
 
 dragon1.html
 
@@ -115,7 +120,8 @@ dragon1.html
 
 </body>
 </html>
-
+```
+```
 
 juniorcabs.html
 

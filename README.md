@@ -19,8 +19,7 @@ imagemap.html
 <title>My Area</title>
 </head>
 <body>
-    
-        <div >
+    <div >
        imagemap.html
 
 <!DOCTYPE html>
@@ -38,11 +37,6 @@ imagemap.html
         <area shape="rect" coords="359,344,555,432" href="eagle1.html"  title="Eagle Enterprises">
         <area shape="rect" coords="515,114,762,175" href="dragon1.html"  title="Dragon International School of Karate">
         <area shape="rect" coords="589,564,775,671" href="juniorcabs1.html"  title="Juniorcabs">
-        
-        </map>
-        </div>
-        
-</body>
         
         </map>
         </div>

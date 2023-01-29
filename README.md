@@ -11,6 +11,7 @@ Use the paint softwere to obtain the coordinates of the special area, which is g
 Create the other html pages that are going to be linked with the main html page.
 
 # Code:
+```
 imagemap.html
 
 <!DOCTYPE html>
@@ -133,7 +134,7 @@ juniorcabs.html
 
 </body>
 </html>
-
+```
 
 
 

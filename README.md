@@ -20,16 +20,7 @@ imagemap.html
 <title>My Area</title>
 </head>
 <body>
-    <div >
-       imagemap.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>My Area</title>
-</head>
-<body>
-    
         <div >
         <img src="home3.png" usemap="#MyArea" height="725" width="1510">
         <map name="MyArea">

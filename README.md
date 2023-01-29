@@ -21,101 +21,127 @@ imagemap.html
 <body>
     
         <div >
-        <img src="home.png" usemap="#MyArea" height="725" width="1510">
-       <map name="image-maps-2023-01-29-031809" id="ImageMapsCom-image-maps-2023-01-29-031809">
-       <area  alt="" title="home" href="http://www.image-maps.com/" shape="rect" coords="857,335,991,395" style="outline:none;" target="_self"     />
-       <area  alt="" title="bank" href="http://www.image-maps.com/" shape="rect" coords="701,710,835,760" style="outline:none;" target="_self"     />
-       <area  alt="" title="green spa" href="http://www.image-maps.com/" shape="rect" coords="1285,605,1419,677" style="outline:none;" target="_self"     />
-       <area  alt="" title="yd market" href="http://www.image-maps.com/" shape="rect" coords="1050,789,1184,868" style="outline:none;" target="_self"     />
-       <area  alt="" title="textile" href="http://www.image-maps.com/" shape="rect" coords="930,668,1064,747" style="outline:none;" target="_self"     />
-       <area shape="rect" coords="1918,1078,1920,1080" alt="Image Map" style="outline:none;" title="Image Map" href="https://www.image-maps.com/" />
+       imagemap.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>My Area</title>
+</head>
+<body>
+    
+        <div >
+        <img src="home3.png" usemap="#MyArea" height="725" width="1510">
+        <map name="MyArea">
+        <area shape="rect" coords="411,183,786,312" href="krishna_nagar.html"  title="Krishna Nagar 8th Street">
+        <area shape="rect" coords="679,388,815,469" href="house1.html"  title="Home">
+        <area shape="rect" coords="359,344,555,432" href="eagle1.html"  title="Eagle Enterprises">
+        <area shape="rect" coords="515,114,762,175" href="dragon1.html"  title="Dragon International School of Karate">
+        <area shape="rect" coords="589,564,775,671" href="juniorcabs1.html"  title="Juniorcabs">
         
         </map>
         </div>
         
 </body>
-home.html
+        
+        </map>
+        </div>
+        
+</body>
+
+krishna_nagar.html
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>ponni Nagar 2nd Street</title>
+<title>Krishna Nagar 8th Street</title>
 </head>
 <body>
     <center>
-        <h1>ponni nagar 2nd Street</h1>
-        <img src="ponni nagar.png">
+        <h1>Krishna Nagar 8th Street</h1>
+        <img src="KrishnaNagar.png">
     </center>
     
 
 </body>
 </html>
-bank.html
+
+
+house1.html
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>bank</title>
+<title>My Home</title>
 </head>
 <body>
     <center>
-        <h1>bank</h1>
-    <img src="bank.png">
+        <h1>My Home</h1>
+    <img src="house.png">
     </center>
 
 </body>
 </html>
-green spa.html
+
+eagle1.html
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>green spa</title>
+<title>Eagle Enterprises</title>
 </head>
 <body>
     <center>
-        <h1>green spa</h1>
-    <img src="green spa.png">
+        <h1>Eagle Enterprises</h1>
+    <img src="eagle.png">
     </center>
 
 </body>
 </html>
-yd market.html
+
+
+
+dragon1.html
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>yd market</title>
+<title>Dragon International School of Karate</title>
 </head>
 <body>
     <center>
-        <h1>yd market</h1>
-    <img src="yd market.png">
+        <h1>Dragon International School of Karate</h1>
+    <img src="dragon.png">
     </center>
 
 </body>
 </html>
-textile.html
+
+
+juniorcabs.html
 
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>textile</title>
+<title>Juniorcabs</title>
 </head>
 <body>
     <center>
-        <h1>textile</h1>
-    <img src="textile.png">
+        <h1>Juniorcabs</h1>
+    <img src="juniorcabs.png">
     </center>
 
 </body>
 </html>
+
+
+
 
 # Output:
 

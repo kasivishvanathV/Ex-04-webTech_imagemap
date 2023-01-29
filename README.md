@@ -138,6 +138,11 @@ juniorcabs.html
 
 
 # Output:
-
+![img](Screenshot%20(57).png)
+![img](Screenshot%20(58).png)
+![img](Screenshot%20(59).png)
+![img](Screenshot%20(60).png)
+![img](Screenshot%20(61).png)
+![img](Screenshot%20(62).png)
 # Result:
-
+Image-Mapping is done successfully
